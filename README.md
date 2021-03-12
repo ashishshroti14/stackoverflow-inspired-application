@@ -13,3 +13,8 @@ After cloning the repo,
 6. In the folder, `run npm install`
 7. Run the command : `npm start`
 8. Now visit http://localhost:3000/question-route
+
+
+Use these credentials :
+Email : user1@gmail.com
+Password: qwerty
